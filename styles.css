@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+input{
+  box-sizing: 10px;
+  max-width: 270px;
+}
+
+button {
+  margin-top: 1rem;
+  text-align: center;
+  width: 100px;
+}
+
+img {
+  max-width: 100px;
+}
+
+.imagem-1 {
+  display: flex;
+  justify-content: right;
+  margin-bottom: 100px;
+}
+
+.container {
+  margin-left: 340px;
+} 
