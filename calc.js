@@ -7,3 +7,12 @@
       $('#metros').val(metros)
     })
   })
+
+
+/*   $(function(){
+    $('#calc').click(function(){
+      const metros = parseFloat($('#metros').val())
+      const milhas = 1609/metros
+      $('#milhas').val(milhas)
+    })
+  }) */

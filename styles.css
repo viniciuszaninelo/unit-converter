@@ -16,6 +16,7 @@ textarea, input {
 }
 
 input {
+  padding: 10px;
   border-radius: .25rem;
   height: 25px;
   margin-bottom: 5px;
@@ -28,7 +29,6 @@ input {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
 }
 
 label {
@@ -58,3 +58,4 @@ button {
 button:hover {
   filter: brightness(.9); 
 }
+
